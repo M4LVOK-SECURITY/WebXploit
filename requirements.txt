@@ -1,0 +1,7 @@
+requests
+tldextract
+colorama
+termcolor
+html5lib
+beautifulsoup4
+lxml

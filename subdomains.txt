@@ -1,0 +1,6 @@
+www
+api
+mail
+admin
+test
+beta
