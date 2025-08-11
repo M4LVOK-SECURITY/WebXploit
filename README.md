@@ -34,8 +34,8 @@ todas las librerías necesarias, sin afectar ni depender de otras instalaciones 
 
 ### Linux
 ```bash
-git clone <REPO>
-cd <REPO>
+git clone https://github.com/M4LVOK-SECURITY/WebXploit
+cd WebXploit
 python3 -m venv .venv 
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -44,8 +44,8 @@ sudo apt install nmap whatweb
 
 ### Windows (PowerShell)
 ```powershell
-git clone <REPO>
-cd <REPO>
+git clone https://github.com/M4LVOK-SECURITY/WebXploit
+cd WebXploit
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
